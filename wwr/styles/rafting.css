@@ -1,0 +1,32 @@
+:root{
+color-scheme:light;
+}
+}
+.text-font{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+}
+a:link{
+    text-decoration: none;
+    background-color: blue;
+
+h1,h2,h3,h4,h5,h6{
+        font-weight: 100;
+        background-color:blanchedalmond
+}
+.hero{
+    position:relative;
+}
+.hero h1{
+    position:absolute;
+}
+.hero article{
+    position:absolute;
+}
+.hero img{
+    display:block;
+    width:100%
+    height:auto;
+    float:right;
+    margin-left:10px;
+}
