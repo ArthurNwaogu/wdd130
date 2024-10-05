@@ -9,15 +9,15 @@ color-scheme:light;
 }
 .text-font{
     font-family: "Roboto", sans-serif;
-    font-weight: 100;
+    font-weight: 400;
 }
 a:link{
     text-decoration: none;
-    background-color: blue;
+    text-decoration-color: blue;
 
 h1,h2,h3,h4,h5,h6{
         font-weight: 100;
-        background-color:blanchedalmond
+        text-decoration-color:blanchedalmond
 }
 .hero{
     position:relative;
