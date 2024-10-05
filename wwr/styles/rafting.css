@@ -6,7 +6,7 @@
 }
 .text-font{
     font-family: "Roboto", sans-serif;
-    font-weight: 4000;
+    font-weight: 400;
 }
 a:link{
     text-decoration: none;
@@ -25,10 +25,10 @@ h1,h2,h3,h4,h5,h6{
 .hero article{
     position:absolute;
 }
-.hero img{
+/*.hero img{
     display:block;
     width:100%
     height:auto;
     float:right;
-    margin-left:10px;
+    margin-left:10px;*/
 }
