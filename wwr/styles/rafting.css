@@ -1,7 +1,6 @@
 :root{
 color-scheme:light;
 }
-}
 .logo-box{
     width:40px;
     height:auto;
@@ -13,7 +12,7 @@ color-scheme:light;
 }
 a:link{
     text-decoration: none;
-    text-decoration-color: blue;
+    text-decoration-color: white;
 
 h1,h2,h3,h4,h5,h6{
         font-weight: 100;
