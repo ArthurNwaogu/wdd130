@@ -2,6 +2,11 @@
 color-scheme:light;
 }
 }
+.logo-box{
+    width:40px;
+    height:auto;
+    margin-bottom: 10px;
+}
 .text-font{
     font-family: "Roboto", sans-serif;
     font-weight: 100;
