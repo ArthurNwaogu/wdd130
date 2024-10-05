@@ -16,13 +16,13 @@ h1,h2,h3,h4,h5,h6{
         font-weight: 400;
         text-decoration-color:blanchedalmond
 }
-.hero img{
+div.hero img{
     position:relative;
 }
-.hero h1{
+div.hero h1{
     position:absolute;
 }
-.hero article{
+div.hero article{
     position:absolute;
 }
 /*.hero img{
