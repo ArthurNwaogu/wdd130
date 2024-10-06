@@ -23,7 +23,7 @@ h1{
     position:absolute;
 }
 article{
-    position:static;
+    position:unset
 }
 .img2{
     width: 500px;
