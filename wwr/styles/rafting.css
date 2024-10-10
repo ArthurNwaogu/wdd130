@@ -1,5 +1,6 @@
 .header-grid{
     display:grid;
+    margin:2%;
     /*background-color: rgb(128, 0, 124);*/
     grid-template-columns: 20% 1fr;
 }
