@@ -1,10 +1,9 @@
 .header-grid{
     display:grid;
-    background-color: rgb(128, 0, 124);
-    grid-template-columns: 120px 1fr 2fr;
+    /*background-color: rgb(128, 0, 124);*/
+    grid-template-columns: 20% 1fr;
 }
 
-align-items:center;
 .logo-box img{
         border:1px solid #ddd;
         border-radius:50%;
@@ -15,9 +14,10 @@ p{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 }
-.nav-flex{
+.nav-flex a{
     display:flex;
-    
+    justify-content:center;
+    text-align: right;
 }
 a:link{
     text-decoration: none;
