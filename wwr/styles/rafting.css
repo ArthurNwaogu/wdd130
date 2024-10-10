@@ -14,10 +14,10 @@ p{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 }
-.nav-flex a{
-    display:flex;
-    justify-content:center;
+.nav-flex{
     
+    display:flex;
+    justify-content:center;    
 }
 a:link{
     text-decoration: none;
