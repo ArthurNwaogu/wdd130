@@ -93,24 +93,19 @@ figure{
 }
 figure img{
     width:100%;
+    height:auto;
 }
 footer nav{
-    display:grid;
-    grid-template-columns: 5fr 1fr 1fr 1fr;
-
-    align-items: center;
-    margin:10px;
-    column-gap: 10px;
-    background-color: blanchedalmond;
-
+    display:flex;    
+    justify-content:right;  
+    padding:20px;
+    flex:1 1 100%;   
+    background-color: blanchedalmond;  
 }
-/*.history-grid p2{
-    grid-column:3/4;
-}*/
-/*.hero img{
-    display:block;
-    width:100%
+footer nav img{
+    width:50px;
     height:auto;
-    float:right;
-    margin-left:10px;
-}*/
+}
+footer nav h3{
+    padding-right: 100px;
+}
