@@ -91,6 +91,9 @@ article{
 figure{
     text-align: center;
 }
+figure img{
+    width:100%;
+}
 footer nav{
     display:grid;
     grid-template-columns: 5fr 1fr 1fr 1fr;
