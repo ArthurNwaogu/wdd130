@@ -67,7 +67,7 @@ article{
 .history-grid img{
     width:100%;
     height:auto;
-      float:center;
+      float: right;
       margin:10px;
 }
 .history-grid h2{
@@ -97,7 +97,7 @@ figure img{
 footer nav{
     display:grid;
     grid-template-columns: 5fr 1fr 1fr 1fr;
-    align-self: right;
+
     align-items: center;
     margin:10px;
     column-gap: 10px;
