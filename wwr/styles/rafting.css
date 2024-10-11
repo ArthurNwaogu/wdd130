@@ -1,9 +1,8 @@
 .header-grid{
     display:grid;
     align-items: center;/*placed the flex container  and image item at center of grid*/
-    background-color: rgb(223, 150, 255);
-    grid-template-columns: 1fr 1fr;
-    
+    background-color: rgb(220, 220, 255);
+    grid-template-columns: 1fr 1fr;    
 }
 
 .logo-box img{
@@ -91,6 +90,16 @@ article{
 }
 figure{
     text-align: center;
+}
+footer nav{
+    display:grid;
+    grid-template-columns: 5fr 1fr 1fr 1fr;
+    align-self: right;
+    align-items: center;
+    margin:10px;
+    column-gap: 10px;
+    background-color: blanchedalmond;
+
 }
 /*.history-grid p2{
     grid-column:3/4;
